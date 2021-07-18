@@ -168,7 +168,7 @@ p {
 
 /********* Source at bottom of page ********/
 footer {
-  position: absolute;
-  top: 95%;
+/*  position: absolute;
+  top: 95%;*/
   margin: 10px;
 }
